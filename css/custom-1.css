@@ -1,0 +1,19 @@
+
+/* Add more styles for other elements as needed */
+/* your-hexo/source/css/custom.css */
+@import url("fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+
+:root {
+    --header-title-font-size:15px;
+    --first-screen-font-size: 35px;
+    --base-font-family:'Lato', 'sans-serif', STSong, STHeiti,;
+    --header-title-font-family: 'Lato';
+    --first-screen-icon-color-light:#f4f5f7;;
+    --first-screen-icon-color-dark:#f4f5f7;
+    --first-screen-font-color-dark:#f4f5f7;
+    --first-screen-font-color-light: #f4f5f7;
+    --first-screen-header-font-color-light: #faf7f7;
+    --first-screen-header-font-color-dark:  #faf7f7;
+    
+}

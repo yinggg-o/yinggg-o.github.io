@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Testing Post</title>
+    <url>/2024/01/06/Testing-Post/</url>
+    <content><![CDATA[<h3 id="Show-Title"><a href="#Show-Title" class="headerlink" title="Show Title"></a>Show Title</h3><p>words and words</p>
+]]></content>
+      <tags>
+        <tag>Testing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A gentle guide to Mathematica</title>
+    <url>/2024/03/13/post/</url>
+    <content><![CDATA[<h3 id="A-gentle-guide-to-Mathematica"><a href="#A-gentle-guide-to-Mathematica" class="headerlink" title="A gentle guide to Mathematica"></a>A gentle guide to Mathematica</h3><ol>
+<li>Getting Started:<br>Installation: Download and install Mathematica from the Wolfram Research website.<br>Launching Mathematica: Open the Mathematica application after installation.</li>
+<li>Basics of Mathematica:<br>Notebook Interface: Mathematica uses a notebook interface where you can input commands and see the results immediately.<br>Input Cells: Input cells are where you type your commands.<br>Output Cells: Output cells display the results of the computations.<br>Evaluation: Mathematica evaluates expressions automatically when you press Shift + Enter or Shift + Return.</li>
+<li>Mathematica Syntax:<br>Functions: Mathematica functions follow the syntax functionName[arguments]. For example, Sin[π&#x2F;2] calculates the sine of π&#x2F;2.<br>Comments: Use (* *) to add comments in your code.</li>
+<li>Basic Operations:<br>Arithmetic Operations: Use +, -, *, &#x2F; for addition, subtraction, multiplication, and division respectively.<br>Exponents: Use ^ for exponents. For example, 2^3 calculates 2 raised to the power of 3.<br>Assignment: Use &#x3D; for assignment. For example, x &#x3D; 5 assigns the value 5 to the variable x.</li>
+<li>Mathematical Functions:<br>Trigonometric Functions: Use functions like Sin, Cos, Tan for trigonometric calculations.<br>Exponential and Logarithmic Functions: Use functions like Exp, Log for exponential and logarithmic calculations.</li>
+<li>Graphics and Visualization:<br>Plotting Functions: Use Plot function to plot mathematical functions. For example, Plot[Sin[x], {x, 0, 2π}] plots the sine function from 0 to 2π.<br>Graphics Primitives: Mathematica provides primitives like Point, Line, Polygon to create custom graphics.</li>
+<li>Data Analysis:<br>Importing Data: Use Import function to import data from external sources.<br>Manipulating Data: Mathematica provides functions like Select, Map, Sort for data manipulation.<br>Statistical Analysis: Use functions like Mean, Median, StandardDeviation for statistical analysis.</li>
+<li>Advanced Topics:<br>Symbolic Computations: Mathematica can perform symbolic computations like solving equations, differentiation, integration, etc.<br>Programming: Mathematica supports procedural, functional, and rule-based programming paradigms.<br>Symbolic and Numeric Calculations: You can mix symbolic and numeric calculations in Mathematica.</li>
+<li>Documentation and Help:<br>Documentation Center: Mathematica comes with extensive documentation. Use the Documentation Center to find information about functions, tutorials, and examples.<br>Online Resources: There are many online resources, forums, and communities where you can find help and learn more about Mathematica.</li>
+<li>Practice and Experiment:<br>Experimentation: Mathematica is a powerful tool for experimentation. Try out different functions, commands, and options to see how they work.<br>Practice: Practice regularly to improve your skills and become familiar with Mathematica’s capabilities.</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文科女可以转码吗</title>
+    <url>/2024/01/11/%E6%96%87%E7%A7%91%E5%A5%B3%E5%8F%AF%E4%BB%A5%E8%BD%AC%E7%A0%81%E5%90%97/</url>
+    <content><![CDATA[<h3 id="文科女生可以转码吗？"><a href="#文科女生可以转码吗？" class="headerlink" title="文科女生可以转码吗？"></a>文科女生可以转码吗？</h3><p>我特别支持女性去学一门技术，而不是稀里糊涂地选一个所谓的自己“感兴趣”的专业，作为“大龄文科转码女”本人，觉得不光是有实实在在的就业方面的好处，还能带来你思维上的拓展。<br></p>
+<p>我觉得「文科专业」的危险在于其理念和方法不需要在现实里检验(not-applicable)，你可以说各种各样的调研和分析之类的，但你总是同时也能找到其他几十个因子起作用，我觉得这对一个人对真相(Truth)的理解毫无帮助，而对真相的理解几乎是人活在世界上最重要的事了，有的时候在想不知道现在这种全球性的青年精神危机和文科专业在高校大行其道有没有关系。</p>
+<p>扯太远了，我想说的是一个人想要有所建树，就必须从那种天生的「无知」的状态走出来变成一个刻意对真相有所追寻的人，那就要求一个人随时对自己所持有的立场（proposition）有所怀疑。鉴于我们人类对自己的脑子里的信念总是坚信不疑，我甚至觉得这种对自己信念的怀疑只可能来自与和现实世界打交道的碰壁，这种碰壁来得越早越好。</p>
+<p>感恩写代码就是一个持续在永不出错的环境检验自己思想的过程，感恩无数工程师对这世界的改造，计算机真的是一门让你对工程，科学，自由意志等等都会再重新认识一遍的学科，又赚钱又有趣的东西，女性为什么不学？</p>
+<p> 作为“大龄文科转码女”本人，其实在想如果重新来一遍，我觉得可以这样去学习（算是给有同样想法的人的建议）？<br>     1. 随便挑一门语言，快速学完基础语法，然后通过做项目做作业各种方式每天不停敲代码，使自己具备基础的debug能力。一个人不可能喜欢一个自己没有“任何控制力”的事情，于是最开始的这个debug能力提升几乎就能让感觉到有兴趣了。<br>     2. 多刷算法题目，我觉得很多前端的东西尽管见效快有趣，但对人的代码水平没有提升，也无法将代码和程序运行原理联系起来，我觉得对算法的理解是能够进一步提升自己的必经之路。<br>     3. 我觉得女性写代码的障碍可能并不在于什么天生的“理科思维”等等，但女性更容易感受到负面情绪，兴趣更多元等等确实会使得这门本质上就是在和报错打交道，大量要求个人时间的行为形成了门槛，不过如果你有勇气并且有方法，我觉得这并不是什么问题，世界上这么多数人都能写代码，为什么不能是我？</p>
+]]></content>
+      <tags>
+        <tag>Self-Development</tag>
+      </tags>
+  </entry>
+</search>
